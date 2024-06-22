@@ -1,0 +1,5 @@
+aactag,atgttc
+ctagctg,tagcagt
+agctagct,ctagctag
+gtcagtca,tgcatgca
+ggatcgttgcaagtaactgg,actagcgttagatcctcgta

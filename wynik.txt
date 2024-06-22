@@ -1,0 +1,20 @@
+1	4	0
+aactag
+ || ||
+atgttc
+2	2	0
+ctagctg
+ | |   
+tagcagt
+3	4	-1
+ agctagct
+ | | | | 
+ctagctag 
+4	4	-2
+  gtcagtca
+  ||  ||  
+tgcatgca  
+5	8	3
+ggatcgttgcaagtaactgg   
+   |  | ||||   |   |   
+   actagcgttagatcctcgta
